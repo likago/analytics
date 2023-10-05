@@ -34,21 +34,21 @@
     display: inline-block;
     vertical-align: middle;
 }
-h4 {
+h3 {
     color: #FFF;
     font-size: 24px;
     font-style: normal;
     font-weight: 700px;
     line-height: normal;
 }
-h3.first {
+h4.first {
     color: #FFF;
     font-size: 18px;
     font-style: normal;
     font-weight: 700px;
     line-height: normal;
 }
-h3.second {
+h4.second {
     color: #333;
     font-size: 18px;
     font-style: normal;
