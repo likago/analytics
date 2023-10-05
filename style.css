@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    box-sizing: border-box;
+}
+
+.nav-box{
+    background-color:#2F80ED;
+    width: 400px;
+    height: 900px;
+    display:inline-block;
+    vertical-align: top;
+}
+#img1{
+    width: 38px;
+    height: 38px;
+    flex-shrink: 0;
+    padding-top: 64px;
+    padding-left: 44px;
+    background-color:#2F80ED;
+}
+#text1{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 98px;
+}
+#img2{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    padding-top: 155px;
+    padding-left: 67px;
+    background-color:#2F80ED;
+}
+#text2{
+    padding-left: 101px;
+    width: 156px;
+    height: 16px;
+    flex-shrink: 0; 
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#img3{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    padding-top: 44px;
+    padding-left: 67px;
+    background-color:#2F80ED;
+}
+#text3{
+    width: 156px;
+    height: 16px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 100px;
+}
+#img4{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    padding-top: 496px;
+    padding-left: 64px;
+    background-color:#2F80ED;
+
+}
+#text4{
+    width: 156px;
+    height: 16px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 101px;
+}
+.section-box{
+    width: 1040px;
+    height: 900px; 
+    display:inline-block;
+    vertical-align: top;
+}
+.section-box h2{
+    color: #515151;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 65px;
+    padding-left: 73px;
+}
+.lables label{
+    padding-top: 31px;
+    display: block;
+}
+.lables input{
+    height: 75px;
+    width: 400px;
+    padding-left: 30px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.lables{
+    margin-top: 93px;
+    margin-left: 55px;
+}
+button{
+    border: none;
+    background-color: #333333;
+  padding: 15px 25px;
+  margin-top: 42px;
+  margin-left: 55px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #FFF;
+}
