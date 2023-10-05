@@ -2,15 +2,11 @@
 * {
     font-family: Poppins;
 }
-section {
-    width: 1440px;
-    height: 900px;
-}
 .part1 {
     display: inline-block;
     background-color: #2F80ED;
-    width: 25%;
-    height: 800px;
+    width: 400px;
+    height: 900px;
     vertical-align: top;
 }
 .part2 {
